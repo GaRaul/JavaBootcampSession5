@@ -19,8 +19,7 @@ public class ArraylistHashtableApp1 {
 
 		boolean salir = false;
 		while (!salir) {
-			System.out
-					.println("Que quieres hacer?\n1 - Insertar alumno\n2 - Ver la nota media de un alumno\n3 - Salir");
+			System.out.println("Que quieres hacer?\n1 - Insertar alumno\n2 - Ver la nota media de un alumno\n3 - Salir");
 			int opcion = teclado.nextInt();
 			System.out.println();
 
